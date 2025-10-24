@@ -8,7 +8,7 @@ License:<br>
 - This data has an open license, so the data can be used with few restrictions.
 
 Ethical Statements:<br>
--For this project we relied on data that was collected from the Energy Information Administration which is a division of the US Department of Energy. This data has an open license and is free to be used by the public given it is government data, so there is no risk of us misusing or reproducing someone else’s data without proper permissions or licenses. Given its nature of electricity prices for entire states there is no risk to the privacy of any person.
+- For this project we relied on data that was collected from the Energy Information Administration which is a division of the US Department of Energy. This data has an open license and is free to be used by the public given it is government data, so there is no risk of us misusing or reproducing someone else’s data without proper permissions or licenses. Given its nature of electricity prices for entire states there is no risk to the privacy of any person.
 
 Data Dictionary:<br>
 <img width="947" height="802" alt="image" src="https://github.com/user-attachments/assets/8a479862-9344-47b6-b960-87593da4cd63" />
